@@ -4,7 +4,7 @@ Learning. Building. Improving lives through technology.
 
 AI For Better Life (AIBL) is a student-led initiative where students explore AI, technology, neuroscience, coding, and innovation to create meaningful real-world impact.
 
-We believe technology should not only help people learn - it should help improve lives.
+We believe technology should not only help people learn - it should help improve lives..
 
 ## What We Explore
 
