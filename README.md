@@ -15,8 +15,4 @@ We believe technology should not only help people learn - it should help improve
 * Open-Source Projects
 * Community Impact Initiatives
 
-## Connect With Us
-
-https://www.aiforbetterlife.org
-
 Together, we innovate for life.
